@@ -1,6 +1,5 @@
 import { User } from './User';
 import { Company } from './Company';
-//import google from 'googlemaps';
 import { CustomMap } from './CustomMap';
 
 const user = new User();
